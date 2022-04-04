@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-![twitter-part2](https://user-images.githubusercontent.com/75382121/160056595-edff3738-da4e-47e3-bff8-d43c905151a2.gif)
+![twitter-part2](https://user-images.githubusercontent.com/75382121/161602332-e7c97cdb-27dc-438f-b7a2-e7d40789f6d3.gif)
 
 
 # Twitter - Part I 
